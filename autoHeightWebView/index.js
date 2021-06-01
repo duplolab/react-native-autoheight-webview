@@ -95,7 +95,7 @@ AutoHeightWebView.propTypes = {
       rel: PropTypes.string,
     }),
   ),
-  style: ViewPropTypes.style,
+//   style: ViewPropTypes.style,
   customScript: PropTypes.string,
   customStyle: PropTypes.string,
   viewportContent: PropTypes.string,
